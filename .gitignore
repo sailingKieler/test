@@ -12,7 +12,6 @@
 
 # Package Files #
 *.jar
-*.war
 *.zip
 *.tar.gz
 *.rar
